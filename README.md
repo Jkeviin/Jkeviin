@@ -1,8 +1,5 @@
-### Hi there 👋
 
-![2022-09-02-11-44-36_Trim](https://user-images.githubusercontent.com/99143307/188201914-5315db3a-3dd5-45d0-9d82-4d9da4a05559.gif)
-
-<img src="https://user-images.githubusercontent.com/99143307/188201914-5315db3a-3dd5-45d0-9d82-4d9da4a05559.gif" alt="Here is a little bit about me!">
+<img src="https://user-images.githubusercontent.com/99143307/188202484-cc07c722-d9dc-46fe-8281-96bd61f2b15a.gif" alt="Here is a little bit about me!">
 
 <!--
 **Jkeviin/Jkeviin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
