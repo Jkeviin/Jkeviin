@@ -8,10 +8,10 @@
 <br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/in/kevin-ortega-11b779215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kevin-ortega-11b779215/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevin-ortega-11b779215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-ortega-11b779215/" height="30" width="40" /></a>
 <a href="https://fb.com/100036200142907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100036200142907" height="30" width="40" /></a>
 <a href="https://instagram.com/jkeviin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jkeviin_" height="30" width="40" /></a>
-<a href="https://discord.gg/-Kevin#4533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="-Kevin#4533" height="30" width="40" /></a>
+
 </p>
 <h2 align="center">My Stats</h2>
 <p align="center">
