@@ -20,7 +20,9 @@
 </p>
 <h2 align="center">Profile Trophy</h2>
 <p align="center"><img height="250" src="https://github-profile-trophy.vercel.app/?username=Jkeviin&theme=darkhub&column=3&row=2" /> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jkeviin"/>
+</p>
 <!-- SNAKE -->
 <h2 align="center">Contributions</h2>
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
