@@ -166,12 +166,12 @@ g.typingUnderline rect {
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      About
-</text>
+      Hello!
+  </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
       fill="#AAA" font-weight="bold"> 
-      Me!
+      This is about me:
 </text>
 
 
