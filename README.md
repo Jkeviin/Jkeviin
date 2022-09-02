@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jkeviin"/>
 </p>
+<!--          ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) -->
 <!-- SNAKE -->
 <h2 align="center">Contributions</h2>
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
