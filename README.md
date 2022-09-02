@@ -2,17 +2,16 @@
 <p align="center" margin="0" padding="0">
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!" width="80%" margin="0" padding="0"></p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,js,css,cs,cpp,php,dotnet,git,github,jquery,bootstrap,react,svg,ps,mysql,mongodb,netlify,unity,visualstudio,vscode&theme=dark&perline=10"/> </p>
 
-<h2 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/kevin-ortega-11b779215/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
   <a href="https://fb.com/100036200142907" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/></a>
   <a href="https://instagram.com/jkeviin_" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
   <a href="slash2130kevin@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/99143307/188237860-ec930560-172e-4091-a904-e0c1b3ca0f41.png" height="50" width="50/"></a>
 </p>
-<br>
 <h2 align="center">My Stats</h2>
 <p align="center">
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
