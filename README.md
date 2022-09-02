@@ -1,15 +1,18 @@
 <img src="Images/header_en.svg"></img>
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
 
- ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<h2 align="center">My Stats</h2>
 <p align="center">
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=html&hide_title=true&layout=compact&langs_count=8&theme=dark" /></p>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
 <p align="center">
- <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&theme=dark&hide_border=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jkeviin&hide_border=true&theme=dark" />
+ <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&theme=github_dark" />  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jkeviin&theme=github-dark" /> <!--nightowl  chartreuse-dark --> 
 </p>
+<h2 align="center">PROFILE THROPY</h2>
+<p align="center"><img height="180" src="https://github-profile-trophy.vercel.app/?username=Jkeviin&theme=darkhub&column=3&row=2" /> </p>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- SNAKE -->
+<h2 align="center">Contributions</h2>
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -31,23 +34,17 @@
     <img src="https://readme.andyruwruw.com/api/now-playing">
   </a>
 </p>
+
 ---
 ╔═ Your Theme Mode:
- 
+
 ╚═════ &nbsp;It's [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) in here...<!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 ---
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> Donate:
 
 <p><a href="https://ko-fi.com/jkeviin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br>
- 
- 
- 
- <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkeviin&label=Profile%20views&color=0e75b6&style=flat" alt="jkeviin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkeviin" alt="jkeviin" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,7 +59,11 @@
  
  
  
- 
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/Jkeviin/count.svg?"  />
+</div>
+
+###
  
  
  
