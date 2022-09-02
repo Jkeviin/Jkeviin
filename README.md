@@ -13,10 +13,10 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://github-readme-streak-stats.herokuapp.com?user=Jkeviin&date_format=M%20j%5B%2C%20Y%5D">
-
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=TeX&layout=compact)
+ ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jkeviin&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=TeX&layout=compact&show_icons=true)
 
 
 <!--
