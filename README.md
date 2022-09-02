@@ -1,6 +1,9 @@
 
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
 
+
+![snake gif](https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **Jkeviin/Jkeviin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
