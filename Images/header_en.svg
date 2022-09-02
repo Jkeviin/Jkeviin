@@ -128,8 +128,6 @@ g.typingUnderline rect {
 }
 </style>
 
-
-
  <defs> 
     <filter id="goo">
       <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
