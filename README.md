@@ -1,6 +1,10 @@
 
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- SNAKE -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
