@@ -1,9 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
 
-<img src="https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.gif" width="100%">
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" />
 
 <!--
 **Jkeviin/Jkeviin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
