@@ -1,4 +1,4 @@
-<img src="Images/header_en.svg"></img>
+<img src="Images/header.svg"></img>
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
 
 <h2 align="center">My Stats</h2>
