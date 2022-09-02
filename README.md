@@ -9,8 +9,16 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jkeviin&count_private=true&show_icons=true&include_all_commits=true)
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://github-readme-streak-stats.herokuapp.com?user=Jkeviin&date_format=M%20j%5B%2C%20Y%5D">
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=TeX&layout=compact)
+
+
 <!--
 **Jkeviin/Jkeviin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
