@@ -13,7 +13,7 @@
   <a href="slash2130kevin@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/99143307/188237860-ec930560-172e-4091-a904-e0c1b3ca0f41.png" height="50" width="50/"></a>
 </p>
 <br>
-<div align="center">My Stats</div>
+<h2 align="center">My Stats</h2>
 <p align="center">
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
 <p align="center">
