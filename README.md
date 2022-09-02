@@ -1,6 +1,6 @@
-<img src="Images/header.svg"></img>
-<h2 align="center">ABOUT ME</h2>
-<img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!">
+<img src="Images/header.svg" margin="0" padding="0"></img>
+<p align="center" margin="0" padding="0">
+<img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!" width="80%" margin="0" padding="0"></p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,js,css,cs,cpp,php,dotnet,git,github,jquery,bootstrap,react,svg,ps,mysql,mongodb,netlify,unity,visualstudio,vscode&theme=dark&perline=10"/> </p>
@@ -13,7 +13,7 @@
   <a href="slash2130kevin@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/99143307/188237860-ec930560-172e-4091-a904-e0c1b3ca0f41.png" height="50" width="50/"></a>
 </p>
 <br>
-<h2 align="center">My Stats</h2>
+<div align="center">My Stats</div>
 <p align="center">
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeviin&hide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
 <p align="center">
@@ -28,6 +28,13 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
+
 <!-- Nothing weird to see here -->
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
@@ -38,12 +45,6 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you (RANDOM):
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ╔═ Your Theme Mode:
@@ -53,18 +54,7 @@
 ---
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> Donate:
 
-<p><a href="https://ko-fi.com/jkeviin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br> 
- 
-
- <div align="center">
-  <img src="https://profile-counter.glitch.me/Jkeviin/count.svg?"  />
-</div>
-
-###
- 
- 
- 
- 
+<p><a href="https://ko-fi.com/jkeviin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br>  
  
  
 <!--
