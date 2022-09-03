@@ -18,6 +18,7 @@
 <p align="center">
  <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=Jkeviin&show_icons=true&theme=github_dark" />  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jkeviin&theme=github-dark" /> <!--nightowl  chartreuse-dark --> 
 </p>
+<br>
 <h2 align="center">Profile Trophy</h2>
 <p align="center"><img height="250" src="https://github-profile-trophy.vercel.app/?username=Jkeviin&theme=darkhub&column=3&row=2" /> </p>
 <p align="center">
@@ -25,7 +26,7 @@
 </p>
 <!--          ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) -->
 <!-- SNAKE -->
-<h2 align="center">Contributions</h2>
+<h3 align="center">Contributions</h3>
 <img src="https://raw.githubusercontent.com/Jkeviin/Jkeviin/output/github-contribution-grid-snake.svg" width="100%"/>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
