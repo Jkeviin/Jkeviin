@@ -56,9 +56,11 @@
 ╚═════ &nbsp;It's [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) in here...<!--🦶FOOTER--> 
 <img src="Images/footer.svg" width="100%">
 ---
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> Donate:
+<p align="center">
+<img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> <h2>Donate:</h2>
+</p>
 
-<p><a href="https://ko-fi.com/jkeviin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br>  
+<p align="center"><a href="https://ko-fi.com/jkeviin" align="center"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br>  
  
  
 <!--
