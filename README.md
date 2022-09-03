@@ -22,8 +22,9 @@
 <br>
 <h2 align="center">Profile Trophy</h2>
 <p align="center"><img height="250" src="https://github-profile-trophy.vercel.app/?username=Jkeviin&theme=darkhub&column=3&row=2" /> </p>
+<h4 align="center">Profile Review</h4>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jkeviin"/>
+  <img src="https://profile-counter.glitch.me/Jkeviin/count.svg"/>
 </p>
 <!--          ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) -->
 <!-- SNAKE -->
@@ -56,11 +57,9 @@
 ╚═════ &nbsp;It's [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) in here...<!--🦶FOOTER--> 
 <img src="Images/footer.svg" width="100%">
 ---
-<p align="center">
-<img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> <h2>Donate:</h2>
-</p>
 
-<p align="center"><a href="https://ko-fi.com/jkeviin" align="center"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br><br>  
+<h3 align="center">SUPPORT ME:</h3>
+<p align="center"><a href="https://ko-fi.com/jkeviin" align="center"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jkeviin" /></a></p><br>
  
  
 <!--
