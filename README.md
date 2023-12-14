@@ -29,7 +29,7 @@
 <!--          ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) -->
 <!-- SNAKE -->
 <h3 align="center">Contributions</h3>
-![snake gif](https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.gif" height="20" width="100%">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
