@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!" width="80%" margin="0" padding="0"></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,scss,angular,git,github,bootstrap,mysql,mongodb,figma,vscode&theme=dark&perline=10"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,git,nodejs,express,nestjs,angular,selenium,mysql,mongodb,redis,graphql,aws&theme=dark&perline=8"/> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
