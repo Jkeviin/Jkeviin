@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kevin-ortega-11b779215/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
   <a href="https://fb.com/100036200142907" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/></a>
-  <a href="https://instagram.com/jkeviin_" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
-  <a href="mailto:slash2130kevin@gmail.com?subject=Vengo%20desde%20el%20github&body=Hola" target="blank"><img src="https://user-images.githubusercontent.com/99143307/188237860-ec930560-172e-4091-a904-e0c1b3ca0f41.png" height="50" width="50/"></a>
+  <a href="mailto:kevin.dev.soft@hotmail.com?subject=Vengo%20desde%20el%20github&body=Hola" target="blank"><img src="https://user-images.githubusercontent.com/99143307/188237860-ec930560-172e-4091-a904-e0c1b3ca0f41.png" height="50" width="50/"></a>
 </p>
 <br>
 <h2 align="center">My Stats</h2>
@@ -28,17 +27,16 @@
 </p>
 <!--          ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg) -->
 <!-- SNAKE -->
-<h3 align="center">Contributions</h3>
-<img src="https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.svg">
+<!-- <h3 align="center">Contributions</h3> -->
+<!-- <img src="https://github.com/Jkeviin/Jkeviin/blob/output/github-contribution-grid-snake.svg"> -->
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://readme.andyruwruw.com/api/now-playing">
   </a>
-</p>
+</p>-->
 
 <!-- Nothing weird to see here -->
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
