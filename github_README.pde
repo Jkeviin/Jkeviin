@@ -11,20 +11,27 @@ void setup() {
   background(255);
   fill(0);
 
-  strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Johnkevin Ortega.";
+  // Introduce yourself and your title
+  strs[0][0] = "Hi! I'm";
+  strs[0][1] = "Technologo en ADSI";  
 
-  strs[1][0] = "I'm a programmer in training";
-  strs[1][1] = "At the SENA educational center.";
+  // Highlight your experience and focus
+  strs[1][0] = "Full-Stack Developer";
+  strs[1][1] = "(Backend Focus)";
 
-  strs[2][0] = "I program since I was very young!";
-  strs[2][1] = "I program in CSS, HTML, Javascript, C++, C# .net, VB, SQL, REACT, etc.";
+  // Showcase your skills
+  strs[2][0] = "Strong in:";
+  strs[2][1] = "JavaScript, TypeScript, Node.js, NestJS, Express, GraphQL";
+  strs[3][0] = "";  // Optional line break
+  strs[3][1] = "MongoDB, SQL (Oracle), Angular, TypeORM";
 
-  strs[3][0] = "I have created websites using what I have learned";
-  strs[3][1] = "I have done basic exercises in each learning topic";
+  // Mention agile methodologies
+  strs[4][0] = "Experienced with";
+  strs[4][1] = "Agile methodologies (Scrum)";
 
-  strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "email: slash2130kevin@gmail.com";
+  // Express your passion for learning
+  strs[5][0] = "Always learning and";
+  strs[5][1] = "looking for new challenges";
 }
 
 int i = 0;
