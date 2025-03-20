@@ -1,6 +1,6 @@
 <img src="Images/header.svg" margin="0" padding="0"></img>
 <p align="center" margin="0" padding="0">
-<img src="https://github.com/Jkeviin/Jkeviin/assets/99143307/ad0dcba1-1cd2-4e64-9df3-60744b95bf57" alt="Here is a little bit about me!" width="90%" margin="0" padding="0"></p>
+<!--<img src="https://github.com/Jkeviin/Jkeviin/assets/99143307/ad0dcba1-1cd2-4e64-9df3-60744b95bf57" alt="Here is a little bit about me!" width="90%" margin="0" padding="0"></p>-->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,git,nodejs,express,nestjs,angular,selenium,mysql,mongodb,redis,graphql,aws&theme=dark&perline=8"/> </p>
